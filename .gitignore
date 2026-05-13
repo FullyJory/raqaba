@@ -1,0 +1,8 @@
+.env
+raqaba.db
+*.db
+__pycache__/
+*.py[cod]
+yolov8n.pt
+videos/demo.mp4
+*.mp4
